@@ -23,3 +23,10 @@
   />
   <br><br>
 </p>
+
+-----
+
+### <p align="center">👁️‍🗨️ &nbsp;Cliquez pour rejoindre le discord</p>
+### <p align="center">[![BackLeaks](https://discord.com/api/guilds/818823609946341376/widget.png?style=banner4)](https://discord.gg/cSAv6BUhX8)</p>
+
+-----
