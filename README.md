@@ -4,5 +4,5 @@
 <br>
 
 <p align="center">
-  <img height="40em" src="https://profile-counter.glitch.me/sylvermatsy/count.svg" />
+  <img height="40em" src="https://profile-counter.glitch.me/Crazioz/count.svg" />
 </p>
